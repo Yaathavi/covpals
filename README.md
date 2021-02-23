@@ -5,3 +5,6 @@ CovPals is a website that was created to combat feelings of isolation faced by m
 ## How we built it
 For the front end, we used React to create our views and forms. For the back end, we used Express, Nodejs, and MongoDB to store and access our database of users.
 We utilized the Mailgun API to give our server the ability to automate sending emails to participants, and to notify them of their matches. Additionally, we leveraged the Zoom API to generate weekly meeting links for each matched pair of users.
+
+![Screenshot](https://github.com/nikashan02/covpals/blob/master/screenshot1.png?raw=true)
+![Screenshot](https://github.com/nikashan02/covpals/blob/master/screenshot2.png?raw=true)
